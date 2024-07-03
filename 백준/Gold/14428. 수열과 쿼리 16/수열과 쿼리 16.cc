@@ -97,6 +97,5 @@ int main() {
             cout << result.index + 1 << "\n";
         }
     }
-
     return 0;
 }
