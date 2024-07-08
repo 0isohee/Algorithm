@@ -2,6 +2,9 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2167) 
 
+### 문제 접근 방식
+![image](https://github.com/0isohee/Algorithm/assets/163387330/b28dc9a8-09de-4744-9f3d-2d41a49596da)
+
 ### 성능 요약
 
 메모리: 2812 KB, 시간: 12 ms
