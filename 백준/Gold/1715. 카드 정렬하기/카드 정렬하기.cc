@@ -35,8 +35,6 @@ int main(){
         }
     }
 
-    // for (int i=0; i<N; i++){
-    // }
     cout << ans << "\n";
     return 0;
 }
