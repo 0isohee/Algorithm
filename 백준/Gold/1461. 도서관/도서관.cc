@@ -71,7 +71,6 @@ int main() {
             sumv += max(bookPos[0], abs(bookNeg[bookNeg.size() - 1]));
         }
     }
-
     cout << sumv << "\n";
     return 0;
 }
