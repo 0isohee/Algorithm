@@ -28,6 +28,7 @@ int main() {
             dp[t] = max(dp[t-time]+score, dp[t]);
         }
     }
+
     cout << dp[T] << "\n";
     return 0;
 }
